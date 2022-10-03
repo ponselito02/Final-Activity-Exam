@@ -1,0 +1,12 @@
+body{
+	background: rgb(9,15,41);
+	background: linear-gradient(90deg, rgba(9,15,41,1) 0%, rgba(20,33,78,1) 80%);
+}
+
+#header {
+	padding: 2px;
+	background-color: #f5f5f5;
+	color: blue;
+	text-align: center;
+	font-family: Tahoma, san-serif;
+}

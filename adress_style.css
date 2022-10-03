@@ -1,0 +1,11 @@
+body{
+	background: #ebecf1;
+}
+
+#header {
+	padding: 2px;
+	background-color: #232840;
+	color: blue;
+	text-align: center;
+	font-family: Tahoma, san-serif;
+}
